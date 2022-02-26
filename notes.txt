@@ -1,0 +1,14 @@
+instalar duas dependencias o redux e o react-redux
+com yarn
+
+
+cada estado global tem que ter seu proprio reducer
+devemos dividir os estados globais em reducers 
+
+o reducer e responsavel por um estado global especifico
+
+colocamos dentro do rootReducer varios reducers da minha app
+
+saga e lib que usamos para usar interceptadores das actios 
+
+quando as actions podem falhar e dar certo devemos dividilas em 3
